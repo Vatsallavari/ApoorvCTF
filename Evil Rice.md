@@ -16,6 +16,7 @@ A complex challenge requiring symbolic execution to bypass input validation and 
 
 1. **Analyzing the Binary**  
    - Use `file evil-rice-cooker` to determine the binary type:
+     
      ```sh
      ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c5efa6ad81af2eda241bddea1798b2da92c20c6e, for GNU/Linux 4.4.0, stripped
      ```
