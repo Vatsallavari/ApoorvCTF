@@ -37,7 +37,7 @@ To reproduce the solutions:
    
    ```sh
    git clone https://github.com/yourrepo/apoorvctf-writeups.git
-   cd apoorvctf-writeups
+   cd apoorvctf
    ```
 2. Install dependencies (if required):
    ```sh
