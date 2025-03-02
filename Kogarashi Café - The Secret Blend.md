@@ -16,6 +16,7 @@ A challenge that involves analyzing a binary and exploiting format string vulner
 
 1. **Analyzing the Binary**  
    - Use `file secret_blend` to determine the binary type:
+     
      ```sh
      ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=00003bb9e0cd2a32ea61c4b60004ed82aa94d4a9, not stripped
      ```
