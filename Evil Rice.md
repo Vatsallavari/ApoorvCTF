@@ -2,7 +2,7 @@
 
 **Category:** Binary Exploitation  
 
-A complex challenge requiring symbolic execution to bypass input validation and extract the flag.  
+A complex challenge requiring symbolic execution to bypass input validation and extract the flag. 
 
 ---
 
