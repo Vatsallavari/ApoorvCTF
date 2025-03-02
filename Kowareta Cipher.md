@@ -8,7 +8,7 @@ A challenge that involves exploiting AES-ECB mode vulnerabilities to extract an 
 
 ### Challenge  
 
-In Tokyo’s cyber arena, Kowareta Cipher has left secrets exposed. Coding prodigy Lain Iwakura encrypted her messages with AES—but without an IV, patterns emerge, revealing cracks in her defenses. Can you break the cipher and uncover the truth?  
+In Tokyo’s cyber arena, Kowareta Cipher has left secrets exposed. Coding prodigy Lain Iwakura encrypted her messages with AES—but without an IV, patterns emerge, revealing cracks in her defenses. Can you break the cipher and uncover the truth? 
 
 **Target:** `nc chals1.apoorvctf.xyz 4001`
 
