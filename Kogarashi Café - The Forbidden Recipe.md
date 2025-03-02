@@ -1,6 +1,6 @@
 # !Kogarashi Café - The Forbidden Recipe  
 
-**Category:** Binary Exploitation  
+**Category:** Binary Exploitation 
 
 A final challenge that involves exploiting a stack-based buffer overflow to manipulate local variables and extract the flag.  
 
