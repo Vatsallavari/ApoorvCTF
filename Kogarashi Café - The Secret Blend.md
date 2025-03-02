@@ -1,6 +1,6 @@
 # !Kogarashi Café - The Secret Blend  
 
-**Category:** Binary Exploitation  
+**Category:** Binary Exploitation 
 
 A challenge that involves analyzing a binary and exploiting format string vulnerabilities to retrieve the flag.  
 
