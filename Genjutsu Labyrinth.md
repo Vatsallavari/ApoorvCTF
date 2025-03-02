@@ -1,6 +1,6 @@
 # !Genjutsu Labyrinth  
 
-**Category:** Algorithmic Challenge / Pathfinding  
+**Category:** Algorithmic Challenge / Pathfinding 
 
 A challenge that involves navigating a grid while minimizing an XOR value to zero using BFS pathfinding.  
 
