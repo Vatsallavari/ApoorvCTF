@@ -16,6 +16,7 @@ A final challenge that involves exploiting a stack-based buffer overflow to mani
 
 1. **Analyzing the Binary**  
    - Use `file forbidden_recipe` to determine the binary type:
+     
      ```sh
      forbidden_recipe: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=c1033e4a4b053363f711f388f116277a1cbde252, not stripped
      ```
