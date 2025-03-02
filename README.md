@@ -22,17 +22,19 @@ Welcome to the **ApoorvCTF** writeups repository! This repository contains detai
 - [Evil Rice](Evil%20Rice.md)
 
 ## How to Use
-Each writeup includes:
-- **Challenge Description**
-- **File Analysis & Reverse Engineering Steps**
-- **Exploitation Methodology**
-- **Exploit Script**
-- **Extracted Flag**
+If you want to run the exploits directly:
+1. Navigate to the `scripts` folder and execute the corresponding exploit script:
+   ```sh
+   cd scripts
+   python exploit_script.py
+   ```
+
+If you want to understand the step-by-step solution, refer to the `.md` file for each challenge.
 
 ## Getting Started
 To reproduce the solutions:
 1. Clone the repository:
-
+   
    ```sh
    git clone https://github.com/yourrepo/apoorvctf-writeups.git
    cd apoorvctf-writeups
@@ -41,5 +43,6 @@ To reproduce the solutions:
    ```sh
    pip install -r requirements.txt
    ```
-3. Run the provided scripts and follow the instructions in each writeup.
+3. Follow the instructions in each writeup for additional steps.
 
+---
