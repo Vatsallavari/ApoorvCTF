@@ -16,6 +16,7 @@ A simple binary exploitation challenge involving a buffer overflow to hijack exe
 
 1. **Analyzing the Binary**  
    - Use `file first_visit` to determine the binary type:
+   
      ```sh
      ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=ddf24eef326cd1ee996fc66f78c48a6eab6d9b87, not stripped
      ```
