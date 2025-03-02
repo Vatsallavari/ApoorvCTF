@@ -101,6 +101,3 @@ if __name__ == "__main__":
 ```
 apoorvctf{Th3_M3nu_L34ks_M0re_Than_It_Sh0uld}
 ```
-
-This write-up details the steps taken to analyze the binary, identify the vulnerability, and exploit it to retrieve the flag.
-
