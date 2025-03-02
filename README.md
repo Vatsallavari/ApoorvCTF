@@ -10,16 +10,16 @@ Welcome to the **ApoorvCTF** writeups repository! This repository contains detai
 ## Challenges Covered
 
 ### 🔹 Binary Exploitation
-- **Kogarashi Café - The First Visit**  
-- **Kogarashi Café - The Secret Blend**  
-- **Kogarashi Café - The Forbidden Recipe**    
+- [Kogarashi Café - The First Visit](Kogarashi%20Caf%C3%A9%20-%20The%20First%20Visit%20.md)
+- [Kogarashi Café - The Secret Blend](Kogarashi%20Caf%C3%A9%20-%20The%20Secret%20Blend.md)
+- [Kogarashi Café - The Forbidden Recipe](Kogarashi%20Caf%C3%A9%20-%20The%20Forbidden%20Recipe.md)    
 
 ### 🔹 Cryptography  
-- **Genjutsu Labyrinth**
-- **Kowareta Cipher**
+- [Genjutsu Labyrinth](Genjutsu%20Labyrinth.md)
+- [Kowareta Cipher](Kowareta%20Cipher.md)
  
 ### 🔹 Reverse Engineering  
-- **Evil Rice**
+- [Evil Rice](Evil%20Rice.md)
 
 ## How to Use
 Each writeup includes:
