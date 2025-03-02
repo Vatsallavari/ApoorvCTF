@@ -1,6 +1,6 @@
 # !Kogarashi Café - The First Visit  
 
-**Category:** Binary Exploitation  
+**Category:** Binary Exploitation 
 
 A simple binary exploitation challenge involving a buffer overflow to hijack execution flow.  
 
