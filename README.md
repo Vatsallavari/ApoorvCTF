@@ -36,8 +36,8 @@ To reproduce the solutions:
 1. Clone the repository:
    
    ```sh
-   git clone https://github.com/yourrepo/apoorvctf-writeups.git
-   cd apoorvctf
+   git clone https://github.com/Vatsallavari/ApoorvCTF.git
+   cd ApoorvCTF
    ```
 2. Install dependencies (if required):
    ```sh
